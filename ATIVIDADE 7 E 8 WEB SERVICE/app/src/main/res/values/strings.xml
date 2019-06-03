@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ciclo de Vida GPS e Mapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="gps_disabled">Sem o GPS o aplicativo não funciona</string>
+    <string name="service_apikey_url">https://api.openweathermap.org/data/2.5/forecast?lat=%f&amp;lon=%f&amp;APPID=e97c1235db0e612a65d64f0605453748&amp;units=metric</string>
+    <string name="main_label">"Coordenadas atuais:\nLat: %f, Long: %f"</string>
+</resources>
